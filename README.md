@@ -3,7 +3,7 @@
 
 ## Hi! I'm Kelvin. Welcome to my Github!
 
-Passionate Data Lover, Explorer with data science/optimization skills and 3 more years of Python/R/SQL programming experience. With experience in applying statistical modeling, NLP techniques, and image processing skills on several data science projects, including Salary Analysis and Forecast, News Recommendation System, and CAPTCHA (digit/letter image with noise) Recognition. 
+Passionate Data Lover, Explorer with AI/data science/optimization skills and 3 more years of Python/R/SQL programming experience. With experience in applying statistical modeling, NLP techniques, and image processing skills on several data science projects, including Salary Analysis and Forecast, News Recommendation System, and CAPTCHA (digit/letter image with noise) Recognition. 
 
 - Finished Master's degree in Operations Reserach at Georgia Tech (Data Science Concentration)
 - Focusing and interested in AI/data science/optimization learning in various areas
